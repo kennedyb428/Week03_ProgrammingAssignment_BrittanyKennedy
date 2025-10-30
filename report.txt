@@ -1,0 +1,27 @@
+***************************************************************************
+Information you provided:
+Favorite protein source: .........................yogurt
+Daily calorie target: ............................1900
+Weekly calorie target: ...........................13300
+Meals per day: ...................................3
+Weekly workout hours: ............................5.00
+
+Suggested weekly macros:
+Protein: .........................................997 grams (3990 cal)
+Carbs: ...........................................1330 grams (5320 cal)
+Fats: ............................................443 grams (3990 cal)
+
+Suggested daily macros:
+Protein: .........................................142 grams (570 cal)
+Carbs: ...........................................190 grams (760 cal)
+Fats: ............................................63 grams (570 cal)
+
+Per meal macro targets:
+Protein grams per meal: ..........................47
+Carbs grams per meal:   ..........................63
+Fats grams per meal:    ..........................21
+***************************************************************************
+Keep fueling with yogurt to hit 142 grams of protein!
+Remember your 5.00 hours of weightlifting per week...
+Keep lifting heavy, Brittany!
+
